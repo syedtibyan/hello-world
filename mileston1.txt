@@ -1,4 +1,3 @@
-This is the first project of SKEL4213 (milestone 1) 
+This is the first project of SKEL4213: 
 members:
-1. Syed Mohammed Tibyan Tisher (Lead)
-2. Mohammed Muatasim (Contributer 1)
+1. Syed Tibyan (Lead)
