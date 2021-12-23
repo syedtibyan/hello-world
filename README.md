@@ -8,7 +8,7 @@ For the system, it has been decided to use a data base from Kaggle for our data 
 ![pic](https://user-images.githubusercontent.com/94521065/147269770-70674587-2196-4f4d-bb83-8b19f6e01a38.jpg)
 
 ### Video of the app running: https://youtu.be/BhRamkPX1MU
-###App Desing and Frames:
+### App Desing and Frames:
 ![Thunkable App Design](https://user-images.githubusercontent.com/94521065/147269545-31599ebf-ee0f-47e3-a123-6e9135f9e847.PNG)
 ![Frame 1](https://user-images.githubusercontent.com/94521065/147269625-1d983e2b-acf7-4a70-b3bc-fce7c5c57e33.PNG)
 ![frame 2](https://user-images.githubusercontent.com/94521065/147269654-212408c8-213b-404f-9dbb-77173d9167cd.PNG)
